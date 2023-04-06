@@ -8,7 +8,7 @@ Inventory Feature for QB-Core Framework
 
 # Screenshots
 
-![‏‏لقطة الشاشة (872)](https://user-images.githubusercontent.com/113031294/230508898-31e1ebaa-0bba-4f2f-9c21-de8d2e8a8917.png)
+![‏‏لقطة الشاشة (874)](https://user-images.githubusercontent.com/113031294/230511527-56b49040-e70d-4628-a1dc-ed7ca4d9e74d.png)
 
 
 # rights
