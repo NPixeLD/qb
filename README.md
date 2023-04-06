@@ -2,6 +2,8 @@
 
 # qb-inventory
 
+qb-inventory Nopixel Inspired
+
 Inventory Feature for QB-Core Framework
 
 # Screenshots
